@@ -78,3 +78,8 @@ bunbuild set <name> <value>
 ```bash
 bunbuild set minify true
 ```
+
+Log Contents (Settings / Entry Points) of Bunbuild file
+```bash
+bunbuild info
+```
